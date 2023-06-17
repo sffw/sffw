@@ -1,6 +1,6 @@
 # 📟 About Me
 
-Passonate Software Engineer and open source contributor building dynamic, user-friendly tools and applications of all shapes and sizes! Currently working on KubeHawk, a Kubernetes health and security monitor. I have experience building scalable and maintable software solutions in Typescript, React, NextJS, Node, and RESTful APIs. 
+Passionate Software Engineer and open source contributor building dynamic, user-friendly tools and applications of all shapes and sizes! Currently working on KubeHawk, a Kubernetes health and security monitor. I have experience building scalable and maintable software solutions in Typescript, React, NextJS, Node, and RESTful APIs. 
 
 Feel free to connect or message me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/spencerffwhite)
 
